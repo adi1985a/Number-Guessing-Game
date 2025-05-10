@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1678240207 source:c:\users\hp\desktop\programy na github\c++\games\guess the number game\main.cpp
+	<iostream>
+	<windows.h>
+	<cstdlib>
+	<string.h>
+	<time.h>
+	<random>
+	<stdio.h>
+
+1741570564 source:f:\my portafolio it ulepszona\c++\games\guess the number game\main.cpp
+	<iostream>
+	<windows.h>
+	<cstdlib>
+	<string>
+	<time.h>
+	<random>
+	<limits>
+
