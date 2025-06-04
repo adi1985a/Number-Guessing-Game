@@ -9,6 +9,8 @@ _A classic C++ console game where you test your intuition to guess the secret nu
 
 **NumberGuesser Pro** is an engaging and colorful console-based C++ application that challenges players to guess a randomly generated number between 1 and 100. The game provides immediate feedback, guiding players with "higher" or "lower" hints. Success is rewarded with a score based on the number of attempts taken, encouraging players to strategize and guess efficiently. The game features vibrant ASCII art for a more immersive experience, tracks the all-time high score, and includes robust input validation to ensure smooth gameplay. Can you become the ultimate NumberGuesser Pro?
 
+![Demo GIF](screenshots/1.gif)
+
 ## ✨ Key Features
 
 *   🎯 **Classic Guessing Gameplay**: Try to guess a secret number randomly chosen between 1 and 100.
@@ -25,9 +27,15 @@ _A classic C++ console game where you test your intuition to guess the secret nu
 
 ## 🖼️ Screenshots
 
-**Coming soon!**
+_Screenshots showcasing the game's ASCII art, hints, and scoring._
+<p align="center">
+  <img src="screenshots\1.jpg" width="300"/>
+  <img src="screenshots\2.jpg" width="300"/>
+  <img src="screenshots\3.jpg" width="300"/>
+  <img src="screenshots\4.jpg" width="300"/>
+  <img src="screenshots\5.jpg" width="300"/>
+</p>
 
-_In the future, screenshots showcasing the game's ASCII art, hints, and scoring will be added here._
 
 ## ⚙️ System Requirements
 
